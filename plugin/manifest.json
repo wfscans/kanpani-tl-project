@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "DMM Proxy",
+    "version": "0.0.1",
+    "background": {
+        "persistent": false,
+        "scripts": ["main.js"]
+    },
+    "permissions": [
+        "proxy"
+    ]
+}
